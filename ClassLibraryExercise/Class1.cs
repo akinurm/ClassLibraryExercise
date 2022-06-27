@@ -6,7 +6,7 @@ namespace ClassLibraryExercise
     {
         /*Metodi, joka tarkistaa onko annettu päivämäärä tulevaisuudessa ja palauttaa true mikäli 
          * päivämäärä on tulevaisuudessa ja false mikäli päivämäärä on menneisyydessä*/
-
+        // TESTI!!
         public static bool OnkoTulevaisuudesta(DateTime paiva)
         {
          if (paiva>DateTime.Now)

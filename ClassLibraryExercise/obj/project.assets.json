@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\AkiNurmi\\.nuget\\packages\\": {}
+    "C:\\Users\\Erkki\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AkiNurmi\\source\\repos\\ClassLibraryExercise\\ClassLibraryExercise\\ClassLibraryExercise.csproj",
+      "projectUniqueName": "C:\\Users\\Erkki\\source\\repos\\ClassLibraryExercise\\ClassLibraryExercise\\ClassLibraryExercise.csproj",
       "projectName": "ClassLibraryExercise",
-      "projectPath": "C:\\Users\\AkiNurmi\\source\\repos\\ClassLibraryExercise\\ClassLibraryExercise\\ClassLibraryExercise.csproj",
-      "packagesPath": "C:\\Users\\AkiNurmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AkiNurmi\\source\\repos\\ClassLibraryExercise\\ClassLibraryExercise\\obj\\",
+      "projectPath": "C:\\Users\\Erkki\\source\\repos\\ClassLibraryExercise\\ClassLibraryExercise\\ClassLibraryExercise.csproj",
+      "packagesPath": "C:\\Users\\Erkki\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Erkki\\source\\repos\\ClassLibraryExercise\\ClassLibraryExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\AkiNurmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Erkki\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
       }
     }
   }
